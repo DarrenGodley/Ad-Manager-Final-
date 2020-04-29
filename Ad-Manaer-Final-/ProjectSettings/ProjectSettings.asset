@@ -165,7 +165,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.AdvertManagerFinal
   buildNumber: {}
-  AndroidBundleVersionCode: 6
+  AndroidBundleVersionCode: 101
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -760,10 +760,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 46eac3d2-a390-4ac6-a4f5-1aaa78dc1180
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Advert-Manager-Final (1)
+  organizationId: darrengodley96
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
