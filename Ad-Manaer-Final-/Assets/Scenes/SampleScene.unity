@@ -1312,7 +1312,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Darren Godley
+  m_Text: Darren Godley Project (30/04/2020)
 --- !u!222 &941841222
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1519,7 +1519,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 227, y: -169}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 193.83, y: 126.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1175354823
 MonoBehaviour:
