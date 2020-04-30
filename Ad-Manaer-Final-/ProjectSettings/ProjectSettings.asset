@@ -165,7 +165,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.AdvertManagerFinal
   buildNumber: {}
-  AndroidBundleVersionCode: 101
+  AndroidBundleVersionCode: 104
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -259,7 +259,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: AdvertManager.keystore'
-  AndroidKeyaliasName: advertmanagerfinal
+  AndroidKeyaliasName: advertmanagerdg
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
